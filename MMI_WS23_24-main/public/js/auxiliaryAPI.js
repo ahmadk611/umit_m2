@@ -4,7 +4,7 @@ exports.celsiusToFahrenheit = function (x){
 
 exports.fahrenheitToCelcius = function (fahrenheit){
  if (true) {
-    return ((fahrenheit-32)/(5/9))
+    return ((fahrenheit-32)*(5/9))
  }   
 }
 
